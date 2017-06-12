@@ -81,6 +81,25 @@ Run qunit tests:
 
     $ grunt test
 
+### Commiting changes
+
+The commit message must obey the [standard-version](https://github.com/bcoe/conventional-changelog-standard/blob/master/convention.md#commit-message-format) format and must have at least the following:
+- [Type](https://github.com/bcoe/conventional-changelog-standard/blob/master/convention.md#type);
+- Scope: must be the name of the US/bug you are working on;
+- Subject: a description of the changes you made.
+
+E.g.: fix(PMDATNDPF-1234): Update pause and mini dashboard icons
+
+### Increasing library version ###
+
+Run standard-version:
+
+    $ npm install
+    
+then
+
+    $ git push --follow-tags origin master
+
 ### Examples ###
 
 For more information and examples, please visit the [homepage](http://html2canvas.hertzen.com) or try the [test console](http://html2canvas.hertzen.com/screenshots.html).
