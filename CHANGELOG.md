@@ -1,3 +1,18 @@
+# Change Log
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+<a name="0.5.0"></a>
+# [0.5.0](https://github.com/niklasvh/html2canvas/compare/v0.5.0-beta4...v0.5.0) (2017-06-12)
+
+
+### Bug Fixes
+
+* **PMDATNDPF-12401:** fix for IE and Edge rendering issue ([a59a5ab](https://github.com/niklasvh/html2canvas/commit/a59a5ab))
+* **PMDATNDPF-12401:** removed processing of SVG nodes ([8a8d7da](https://github.com/niklasvh/html2canvas/commit/8a8d7da))
+
+
+
 ### Changelog ###
 
 v0.5.0-beta4 - 23.1.2016
