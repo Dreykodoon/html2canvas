@@ -4321,7 +4321,7 @@ fabric.Collection = {
 
   var slice = Array.prototype.slice;
 
-  
+
 
   /**
    * Invokes method on all items in a given array
@@ -4441,7 +4441,7 @@ fabric.Collection = {
 
 (function() {
 
-  
+
 
   /**
    * Camelizes a string
@@ -14799,7 +14799,7 @@ fabric.util.object.extend(fabric.Object.prototype, /** @lends fabric.Object.prot
       this.setOptions(options);
 
       if (!path) {
-        throw new Error('`path` argument is required');
+          path = [];
       }
 
       var fromArray = _toString.call(path) === '[object Array]';
