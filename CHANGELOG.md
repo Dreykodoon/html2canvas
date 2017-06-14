@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.5.1"></a>
+## [0.5.1](https://github.com/niklasvh/html2canvas/compare/v0.5.0...v0.5.1) (2017-06-14)
+
+
+### Bug Fixes
+
+* **PMDATNDPF-12512:** The fixes and work-arounds have been added to the src files. ([59786de](https://github.com/niklasvh/html2canvas/commit/59786de))
+
+
+
 <a name="0.5.0"></a>
 # [0.5.0](https://github.com/niklasvh/html2canvas/compare/v0.5.0-beta4...v0.5.0) (2017-06-12)
 
